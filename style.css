@@ -67391,7 +67391,7 @@ video {
 }
 
 .social:hover {
-  filter: sepia(1) saturate(70) hue-rotate(80deg) brightness(0.7);
+  filter: sepia(1) saturate(70) hue-rotate(80deg) brightness(1);
 }
 
 .title {
